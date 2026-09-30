@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-const API_URL = 'http://localhost:5000/api/algorithms';
+const API_URL = 'https://data-science-models.onrender.com/api/algorithms';
 
 const CATEGORIES = [
   'Computational Thinking',
